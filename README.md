@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xxaybhj
 - 👀 I’m interested in programming,web development
-- 🌱 I’m currently learning python,javascript
+- 🌱 I’m currently learning python,javascript,c
 - 📫 How to reach me ayoubhjx86@gmail.com
 
 <!---
